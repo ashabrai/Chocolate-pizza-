@@ -1,5 +1,5 @@
-* {
-    outline: 1px solid black;
+/* * {
+    outline: 1px solid black; */
 }
 .bigwhitebox{
     width:75%;
@@ -16,8 +16,7 @@ aside{
 }
 
 body{
-    background-color:tan;
-   
+    background-color:white;
 }
 .forkphoto{
     margin-top:30px;
