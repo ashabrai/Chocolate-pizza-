@@ -1,0 +1,196 @@
+* {
+    outline: 1px solid black;
+}
+.bigwhitebox{
+    width:75%;
+    height: 100%;
+    background-color:white;
+    margin: auto;
+    position: relative;
+
+    
+}
+aside{
+    float: right;
+    display: block;
+}
+
+body{
+    background-color:tan;
+   
+}
+.forkphoto{
+    margin-top:30px;
+    margin-left:120px;
+    margin-right: 30px;
+}
+
+.nav {
+    margin-top: 20px;
+       
+}
+
+.pin{
+    margin-top:10px;
+    margin-right: 20px;
+}
+
+.delicious {
+    margin-left:-28px; 
+    margin-bottom: 10px;
+    
+    font-family: Yellowtail;
+    font-size: 35px;
+}
+.thebest {
+    font-size: 9px;
+    margin-left:160px;
+    font-family: IBM Plex Sans;
+    color:lightslategray;
+    width:200px;
+}
+.printericon{
+    float:right;
+    margin-right:4px;
+    margin-top: 35px;
+    margin-left: 200px;
+    
+}
+.printbutton {
+   float: right;
+   margin-right:140px;
+   margin-top: 30px;
+   margin-bottom: 2px; 
+}
+
+.date{
+    margin-left:120px;
+    margin-bottom: 10px;
+    font-family: IBM Plex Sans;
+    color:gray;
+    font-size:10px;
+   
+}
+.pizzaphoto{
+    width: 600px;
+    height: 400px;
+    margin-left: 160px;
+    margin-top:5px;
+}
+h1{
+    margin-bottom: 2px;
+    font-family: Francois One;
+    margin-left:120px;
+      
+}
+.paragraph {
+    border:white;
+    max-width: 600px;
+    margin-left: 160px;
+    font-family: Eb Garamond;
+    color: gray;
+}
+.listphoto{
+    max-width: 600px;
+    position: relative;
+    
+}
+.list{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 160px;
+    width: 200px;
+    font-family: Patrick Hand;
+    
+    
+}
+.listtwo{
+    position: absolute;
+    margin-left:250px;
+    margin-top: -160px;
+    width: 200px;
+       
+}
+
+.vanessa{
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    width: 200px;
+}
+.vanphoto{
+    float:left;
+    margin-left: 119px;
+    margin-top: 20px; 
+    width: 60px;
+}
+.biovan{
+    width: 75%;
+    height: 200px;
+    margin-left: 159px;
+    background-color: white;
+    position: relative;
+   
+}
+.bio{
+    width: 450px;
+    margin-left: 200px;
+}
+.headerstripe{
+    margin-right: 300px;
+    margin-left:100px;
+    margin-top: 25px;
+    background-color:white;
+    width: 655px;
+    text-align: center;
+    color:lightgray;
+    font-size: 12px;
+}
+.stripeblock{
+    margin-right: 300px;
+    margin-left:100px;
+    background-color:white;
+    width: 655px;
+    text-align: center;
+    color:lightgray;
+    font-size: 12px;
+    
+}
+.footerfork {
+    position: relative;
+    background-color: white;
+    margin-left:159px;
+    margin-right: 1px;
+    width: 956px;
+}  
+.footerpic{
+    margin-left: 450px;
+    width: 30px;
+   
+}
+    
+.footer {
+    margin-left:159px;
+    text-align: center;
+    width: 75%;
+    background-color: white;
+}
+.footertwo{
+    margin-left:159px;
+    text-align: center;
+    width: 75%;
+    background-color: white;
+    margin-right:4  
+}
+.sharebutton {
+    height: 28px;
+    width: 130px;
+    background-color: brown;
+    text-align: center;
+    position: relative;
+    margin-left:610px;
+    margin-top:-100px;
+    color: white;
+    padding: 5px;
+   
+}
